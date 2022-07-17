@@ -15,5 +15,10 @@
 - Parse unit abilities/wargear to capture invulnerable saves & FNPs
 - Library that maps unit/wargear abilities to durability effects
 - Library that maps unit/wargear abilities to offensive effects
+- Indicate applicable stratagems
 
 ## How to Use
+
+## Useful Links
+- Python Style/Linting: https://peps.python.org/pep-0008/
+- Markdown Syntax: https://www.markdownguide.org/basic-syntax/
